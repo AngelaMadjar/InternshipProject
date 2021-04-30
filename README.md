@@ -8,7 +8,7 @@ the following link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-1
 
 Because of the large size of the files inside my app, I couldn't push it on github.
 Therefore, it can be downloaded from this link: (**expires in 7 days**)
-I developed an interactive real-time app that displays the obtained results with different
+I developed an interactive real-time web application that displays the obtained results with different
 clustering algorithms. The user is able to choose a dataset, a dimensionality reduction method,
 a clustering algoritm as well as the number of clusters for some of the algorithms. 
 The visualizations are shown in realtime depending on the user's choices.
