@@ -16,11 +16,12 @@ The visualizations are shown in realtime depending on the user's choices.
 Please note that loading the visualizations might take some time because of the large size of the datasets.
 
 In the downloadable project, I have also included files that contain all the requirements (*requirements.txt*),
-imported packages (*imported_packages.txt*) as well as the working environment I was working in (*environment.yml*).
+imported packages (*imported_packages.txt*) as well as the virtual environment I was working in (*environment.yml*).
 
 I deployed the app on Docker and a Network URL was generated. Unfortunately, I got the *ERR_CONNECTION_TIMED_OUT*
-Error when tried loading my app in the browser. I believe that with all the files provided, the app
-can be run locally with the command **streamlit run main.py** in terminal.
+Error when I tried loading the link in the browser. I believe that with all the files provided, the app
+can be run locally with the command **streamlit run main.py** in terminal. A Local URL should be generated and
+the app should be opened in the browser.
 
 I am pasting some screenshots from the app bellow:
 
