@@ -1,4 +1,4 @@
-# InternshipProject
+# Spotify ML App
 
 ![spotify](https://user-images.githubusercontent.com/74113692/116729820-edf92600-a9e7-11eb-91d7-3fb6e26468ae.png)
 
